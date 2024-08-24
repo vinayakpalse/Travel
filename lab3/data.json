@@ -1,0 +1,39 @@
+{
+    "destinations": [
+      {
+        "name": "Kedarnath",
+        "image": "kedarnath.jpg",
+        "description": "Kedarnath is a sacred Hindu pilgrimage site in Uttarakhand, India, known for its ancient temple dedicated to Lord Shiva, nestled in the majestic Himalayas."
+      },
+      {
+        "name": "Agra",
+        "image": "agra.jpg",
+        "description": "Agra is a historic city in Uttar Pradesh, India, famous for the iconic Taj Mahal, a UNESCO World Heritage site and one of the Seven Wonders of the World."
+      },
+      {
+         "name": "Kashmir",
+        "image": "kashimar.jpg",
+        "description": "Kashmir is a picturesque region in northern India, renowned for its stunning landscapes, lush valleys, and the serene beauty of its lakes and mountains, often referred to as Paradise on Earth. "
+
+      },
+      {
+        "name": "Rajasthan",
+       "image": "rajasthan.jpg",
+       "description": "Rajasthan is a vibrant state in northwest India, known for its rich cultural heritage, grand palaces, majestic forts, and expansive deserts, reflecting the royal history of the Rajput kings."
+
+     },
+     {
+        "name": "India Gate",
+       "image": "india_gate.jpg",
+       "description": "India Gate is a prominent war memorial in New Delhi, India, honoring the soldiers of the British Indian Army who died in World War I, and is a symbol of national pride and sacrifice."
+
+     },
+     {
+        "name": "Goa",
+       "image": "goa.jpg",
+       "description": "Goa is a popular coastal state in western India, known for its stunning beaches, vibrant nightlife, Portuguese heritage, and laid-back atmosphere."
+
+     }
+    ]
+  }
+  
