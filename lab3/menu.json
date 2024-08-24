@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "name": "Flight",
+            "url": "flight.html",
+            "image": "flight.jpg"
+        },
+        {
+            "name": "Train",
+            "url": "train.html",
+            "image": "train.jpg"
+        },
+        {
+            "name": "Bus",
+            "url": "bus2.jpg",
+            "image": "bus2.jpg"
+        },
+        {
+            "name": "Hotel",
+            "url": "hotel.html",
+            "image": "hotel1.jpg"
+        }
+    ]
+}
